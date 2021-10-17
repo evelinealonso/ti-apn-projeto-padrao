@@ -1,6 +1,6 @@
 # Nome do projeto
 
-Escreva um ou dois parágrafo resumindo o objetivo de seu projeto.
+Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
 
 ## Integrantes
 
