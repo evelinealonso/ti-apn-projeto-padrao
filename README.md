@@ -18,7 +18,7 @@ Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
 ## Histórico de versões
 
 * 0.1.1
-    * CHANGE: Atualização das documentacoes. Código permaneceu inalterado.
+    * CHANGE: Atualização da documentação. Código permaneceu inalterado.
 * 0.1.0
     * Implementação da funcionalidade X pertencente ao processo P.
 * 0.0.1
